@@ -1,0 +1,1 @@
+﻿function RandRange(a,b,c){return c?Math.round(Math.random()*(b-a)+a):Math.random()*(b-a)+a};
